@@ -54,6 +54,7 @@ ffmpeg_config: libass_build libplacebo_build
 		--enable-libvpx \
 		--enable-ladspa \
 		--enable-libbs2b \
+		--enable-libsmbclient \
 		--enable-gpl --enable-libxvid --enable-libx264 \
 		--enable-version3 --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libvo-amrwbenc
 
